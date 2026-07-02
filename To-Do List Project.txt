@@ -1,0 +1,23 @@
+To-Do List Project
+About
+
+This is a simple To-Do List project made using Python. It helps users add, view, and remove their daily tasks. This project is useful for learning basic Python concepts like lists, loops, and conditions.
+
+Features
+Add a task
+View all tasks
+Remove a task
+Exit the program
+Requirements
+Python 3
+How to Run
+Save the file as todo.py.
+Open the terminal.
+Run:
+python todo.py
+Files
+todo.py – Main Python program
+README.md – Project information
+Author
+
+Mopidevi Mihira Sri Keerthi
